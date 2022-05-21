@@ -2,11 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/TorrenceBrown4?style=social)
 
-I'm currently a Junior Front End Developer primarily engaged in building projects using Vue.js and React.js. Check out the toolset in the next section to see that other technologies that I have proficiency in.
-
-In my professional career, I've taken on projects that involved building out a custom Interface for a Mobile Content Management system using a cross-platform Framework. In addition, I recently just completed the first iteration of a Operations Management System for a client built using Vue.js. 
-
-I have a passion for Design + everything Front End Development and have the goal of working with Sustainable Technologies in my professional career. I like to share my knowledge and experiences with others! Currently plan on a taking part time role as a JavaScript tutor. 
+JS || Vue.js || Three.js
 
 ---
 
